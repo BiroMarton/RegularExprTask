@@ -1,0 +1,6 @@
+D:\Project\RegularExprTask\RegularExprTask\bin\Debug\RegularExprTask.exe.config
+D:\Project\RegularExprTask\RegularExprTask\bin\Debug\RegularExprTask.exe
+D:\Project\RegularExprTask\RegularExprTask\bin\Debug\RegularExprTask.pdb
+D:\Project\RegularExprTask\RegularExprTask\obj\Debug\RegularExprTask.csprojResolveAssemblyReference.cache
+D:\Project\RegularExprTask\RegularExprTask\obj\Debug\RegularExprTask.exe
+D:\Project\RegularExprTask\RegularExprTask\obj\Debug\RegularExprTask.pdb
